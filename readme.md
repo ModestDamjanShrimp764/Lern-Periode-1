@@ -5,7 +5,7 @@
 ## Grob-Planung
 
 
-1. Ïch hätte gerne etwas gemacht,das mit Programmieren zu tun hat,da ich es einbisschen auf Internet geübt habe,aber es immernoch nicht so gut kann,wie ich es mir vorgestellt habe.Es ist doch nicht so einfach,wie ich dachte.Ich würde gerne vielleicht ein Spiel mit Autorennen machen,falls ich es schaffe.Da ich mich auch sehr für das Programmieren interessiere und für Autos.Am liebsten würde ich etwas technisches machen,das mit elektronik und informatik zu tun hat.Eine Idee wäre mir auch noch einen KI (ähnlich wie Chatgpt) zu programmieren der die Fragen beantwortet und für  weitere Sachen hilft(Präsentationen,Texte etc.)
+1. Ïch hätte gerne etwas gemacht,das mit Programmieren zu tun hat,da ich es einbisschen auf Internet geübt habe,aber es immernoch nicht so gut kann,wie ich es mir vorgestellt habe.Es ist doch nicht so einfach,wie ich dachte.Ich würde gerne vielleicht ein Spiel mit Autorennen machen,falls ich es schaffe.Da ich mich auch sehr für das Programmieren interessiere und für Autos.Am liebsten würde ich etwas technisches machen,das mit elektronik und informatik zu tun hat.
    
 
  ## 30.08.2024
