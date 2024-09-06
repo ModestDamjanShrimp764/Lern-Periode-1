@@ -14,7 +14,10 @@ Heute habe ich etwas komplett anderes gemacht als ich eigentlich geplant habe.An
 ## 06.09.2024
 Ich will nächstes mal weiterarbeiten und habe mir gedacht das ich erst mal die einstellungen anpasse und neue Grafik drauf tue für Sprite.Danach werde ich die Steuerung für die Tasten programmieren.Ich weiss nicht genau,ob ich Mobile machen soll oder Tastatur/Gamepad.
 Am 13.09.2024 will ich noch testen und falls es nicht funktioniert umprogrammieren und dann die restlichen einstellungen noch anpassen.Dann sollte ich fertig sein.
-
+## 06.09.2024
+Ich habe heute nicht so viel garbeitet, da ich Bauchschmerzen hatte.Ich habe nur meiner Grafik Sprite Renderer hinzugefügt und Rigi2D.
+## 13.09.24 
+Ich will dann die Grundsteuerung beenden und die Grafik genauso.
 
 - [ ] Erstes Arbeitspaket
 - [ ] ...
