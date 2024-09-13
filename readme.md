@@ -18,7 +18,9 @@ Am 13.09.2024 will ich noch testen und falls es nicht funktioniert umprogrammier
 Ich habe heute nicht so viel garbeitet, da ich Bauchschmerzen hatte.Ich habe nur meiner Grafik Sprite Renderer hinzugefügt und Rigi2D.
 ## 13.09.24 
 Ich will dann die Grundsteuerung beenden und die Grafik genauso.
-
+Ich habe die Grundsteuerung gemacht.Die grafik auch beendet ich habe die Audio angefnagen zu machen.
+## 20.09.2024
+Ich will die Audio dan beenden und mal testen ob alles funktioniert und programmieren das die Kamera dem Spieler folgt. Vielleicht schaffe ich noch was weiss aber nicht was.
 - [ ] Erstes Arbeitspaket
 - [ ] ...
 - [ ] Viertes AP
