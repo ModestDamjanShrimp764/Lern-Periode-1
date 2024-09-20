@@ -28,3 +28,6 @@ Ich will die Audio dan beenden und mal testen ob alles funktioniert und programm
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+## Lernperiode Reflexion
+Heute habe ich nicht so viel gemacht, da mein Laptop nicht funktioniert wie er soll. Ich habe Passwort Generator eigentlich fertig gemacht. Ich habe Modul noch angeschaut und sonst ja das wars eigentlich.
+Meiner Meinung nach ist das Projekt gut gelaufen. Es war einfach bisschen kompliziert, deshalb musste ich Youtube schauen einbisschen. Am Anfang hatte ich keinen Plan, was ich machen sollte. Ich dachte Chatgpt,dann 2D spiel am ende habe ich doch einen Passwort Generator der zufällige sichere Passwörter generiert.Das wars mit meinem Projekt.
