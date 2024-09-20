@@ -1,5 +1,7 @@
-# Lern-Periode 1
+<img width="370" alt="Screenshot 2024-09-20 113620 code" src="https://github.com/user-attachments/assets/599ad2c0-86b0-4117-a698-33f961d478a5">
+Bitteschön. Das Foto von meinem Projekt, wie es funktioniert. 
 
+# Lern-Periode 1
 30.08 bis 20.09.2024
 
 ## Grob-Planung
