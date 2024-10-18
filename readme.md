@@ -24,10 +24,12 @@ Ich habe die Grundsteuerung gemacht.Die grafik auch beendet ich habe die Audio a
 ## 20.09.2024
 Ich will die Audio dan beenden und mal testen ob alles funktioniert und programmieren das die Kamera dem Spieler folgt. Vielleicht schaffe ich noch was weiss aber nicht was.
 - [ ] Erstes Arbeitspaket. Ich lerne bei dem ersten Arbeitspaket für die Arbeit. Ich denke mit dem Projekt, Passwortgenerator bin ich fertig. Ich habe schon alles dafür fertig. Habe aber noch keine Nachricht von Ihnen bekommen. Ich weiss nicht was ich soll.
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Bei dem zweiten Lernpaket habe ich meinen Code für Passwortegenrator bisschen umgeändert. Nicht viel,da ich fertig sein sollte, denke ich. Ich habe für den Modul 319 gelernt.
+-Bei dem dritten Arbeitspaket habe ich auch für Die Arbeit 319 Modul gelernt. Da ich nicht alles verstehe und mit meinem jetzigen Projekt fertig bin.
+[ ] Viertes AP Ich habe die Zusammenfassung geschrieben und geschrieben, was ich heute so gemacht habe.
 
 ✍️ Heute habe ich... (50-100 Wörter)
+Ich habe heute an dem Projekt nur noch den Code bisschen geändert. Den Rest der Zeit habe ich für das Lernen für die Arbeit des Moduls 319 genutzt. Ich dachte ich durfte das, da ich mit dem Projekt fertig bin. Ich freue mich für die nächste Woche beim Präsenzunterricht.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 ## Lernperiode Reflexion
