@@ -23,7 +23,7 @@ Ich will dann die Grundsteuerung beenden und die Grafik genauso.
 Ich habe die Grundsteuerung gemacht.Die grafik auch beendet ich habe die Audio angefnagen zu machen.
 ## 20.09.2024
 Ich will die Audio dan beenden und mal testen ob alles funktioniert und programmieren das die Kamera dem Spieler folgt. Vielleicht schaffe ich noch was weiss aber nicht was.
-- [ ] Erstes Arbeitspaket
+- [ ] Erstes Arbeitspaket. Ich lerne bei dem ersten Arbeitspaket für die Arbeit. Ich denke mit dem Projekt, Passwortgenerator bin ich fertig. Ich habe schon alles dafür fertig. Habe aber noch keine Nachricht von Ihnen bekommen. Ich weiss nicht was ich soll.
 - [ ] ...
 - [ ] Viertes AP
 
