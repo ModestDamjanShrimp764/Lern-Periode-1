@@ -33,5 +33,5 @@ Ich habe heute an dem Projekt nur noch den Code bisschen geändert. Den Rest der
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 ## Lernperiode Reflexion
-Heute habe ich nicht so viel gemacht, da mein Laptop nicht funktioniert wie er soll. Ich habe Passwort Generator eigentlich fertig gemacht. Ich habe Modul noch angeschaut und sonst ja das wars eigentlich.
+ Ich habe Passwort Generator eigentlich fertig gemacht. Ich habe Modul noch angeschaut und sonst ja das wars eigentlich.
 Meiner Meinung nach ist das Projekt gut gelaufen. Es war einfach bisschen kompliziert, deshalb musste ich Youtube schauen einbisschen. Am Anfang hatte ich keinen Plan, was ich machen sollte. Ich dachte Chatgpt,dann 2D spiel am ende habe ich doch einen Passwort Generator der zufällige sichere Passwörter generiert.Das wars mit meinem Projekt.
